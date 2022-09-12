@@ -7,6 +7,7 @@ Created by Shirvin, Robert, Natasha, and Derin.
 """
 
 # Home.py is the main file that runs when you run the app
+import pages
 import streamlit as st
 
 st.set_page_config(page_title="Home", page_icon=":joy:", layout="wide")

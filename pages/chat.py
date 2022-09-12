@@ -9,13 +9,7 @@ https://github.com/streamlit/example-app-commenting
 
 
 """
-# FIXME
-# Current Problem that needs to be fixed !!
-import sys
-sys.path.append('pages\\utils\\db.py')
 from utils import db
-
-
 import streamlit as st
 from datetime import datetime
 
