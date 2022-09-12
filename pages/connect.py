@@ -18,6 +18,7 @@ email = st.text_input("Enter your email so another person can contact you!")
 submit = st.button("Submit")
 
 # Friend finder based on user's profile
+st.write("#")
 st.write("Find Friends Here!")
 interest = st.text_input("Type your interests to search up people with similar interests as you!")
 hobby = st.text_input("Type your hobbies to search up people with similar hobbies as you!")

@@ -1,5 +1,13 @@
 # Home.py is the main file that runs when you run the app
 # Created by Shervin, Natasha, Robert, and Derin
+"""
+** Run app through Orphanet directory or else the logo will not display **
+
+1. cd /path/to/Orphanet
+2. streamlit run home.py OR py -m streamlit run home.py
+
+"""
+
 import streamlit as st
 from PIL import Image
 
