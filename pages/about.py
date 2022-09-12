@@ -1,5 +1,10 @@
 import streamlit as st
 
+# About Us Page
+# Info about each member responsible for Orphanet
+
+st.set_page_config(page_title="About Us", page_icon="❓", layout="wide")
+
 st.title("About the Developer")
 st.subheader("Meet the team who built Orphanet!")
 

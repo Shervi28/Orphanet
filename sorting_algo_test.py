@@ -1,4 +1,4 @@
-#you have been haxed!
+# Sorting Algorithm for the connect.py file
 muy = "shervin drawing business"
 muy = muy.split(" ", 1)[1]
 new_muy = ""
